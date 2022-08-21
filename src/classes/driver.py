@@ -2,7 +2,7 @@ import logging
 import random
 import asyncio
 from src.classes.forecast import Forecast
-from src.classes.models import Model, ModelA, ModelB, ModelC
+from src.classes.models import ModelA, ModelB, ModelC
 from config import CONFIG
 
 

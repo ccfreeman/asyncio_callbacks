@@ -1,6 +1,6 @@
 import asyncio
 import logging
-from src.classes.driver import Driver
+from src.classes import Driver
 from config import CONFIG
 
 

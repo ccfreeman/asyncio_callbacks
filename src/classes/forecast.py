@@ -2,7 +2,6 @@ import logging
 import asyncio
 from typing import List
 from src.classes.models import ModelA, ModelB, ModelC, Model
-from config import CONFIG
 
 
 logger = logging.getLogger(__name__)

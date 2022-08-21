@@ -2,7 +2,6 @@ import logging
 import random
 import asyncio
 from abc import ABC, abstractmethod
-from config import CONFIG
 
 
 logger = logging.getLogger(__name__)
